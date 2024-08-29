@@ -21,6 +21,7 @@ The following prerequisites are required to build and run the solution:
   - MediatR
   - AutoMapper
   - FluentValidation
+  - Dapper
 
 # Support 
- If you are having problems, please let me know 
+ If you are having problems, please let me know by [raising a new issue](https://github.com/itarunsharma/CleanArchitecture/issues/new)
