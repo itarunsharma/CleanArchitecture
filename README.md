@@ -1,5 +1,5 @@
 # Clean Architecture Template
-This is clean architecture template with domain driven design, this template contains CRUD operation for client entity with required valueobjects 
+This is clean architecture template with domain driven design, this template contains CRUD operation for client entity with required value objects 
 If you find it useful, please give it a start.
 Thanks! ⭐️
 

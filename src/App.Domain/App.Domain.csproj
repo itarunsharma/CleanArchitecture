@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Registration/Aggregates/" />
+    <Folder Include="Registration/Repositories/" />
+  </ItemGroup>
+
 </Project>
