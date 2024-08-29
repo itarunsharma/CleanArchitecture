@@ -12,7 +12,7 @@ public class ClientConfiguration : IEntityTypeConfiguration<Client>
         builder.ToTable("Patients");
 
         // Configure the primary key
-        builder.HasKey(p => p.Identifier.Value);
+        builder.HasKey(p => p.Identifier!.Value);
 
         // Configure the HumanName value object
         builder.OwnsOne(p => p.HumanName, hn =>
