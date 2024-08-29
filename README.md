@@ -13,3 +13,14 @@ The following prerequisites are required to build and run the solution:
         dotnet run -p src/App.API
 
 # Database
+  The template is configured to use SQL Server by default.
+
+# Technologies
+  - ASP.NET Core 8
+  - Entity Framework Core 8
+  - MediatR
+  - AutoMapper
+  - FluentValidation
+
+# Support 
+ If you are having problems, please let me know 
